@@ -23,8 +23,8 @@
 	              <li> jar dosyası çalıştırma</li>
 	<p>El_sanat_kurslari/Elasanatlari_Kurs_Secimi /dist klasördeki jar dosyası çalıştırılmalı</p>
         </ul>
-		<h2><li >Varlık- İlişki Diyagramı (ERD) ve Veri Akış Diyagramı (VAD) için detaylı rapor</li></h2>
-		 <a href="https://www.lucidchart.com/"> Rapor </a>
+		<h4><li >Varlık- İlişki Diyagramı (ERD) ve Veri Akış Diyagramı (VAD) için detaylı rapor</li></h4>
+		 <a href="https://maya-karahbala.github.io/El_sanat_kurslari/rapor.pdf"> Rapor </a>
 	
 
 		
