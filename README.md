@@ -11,7 +11,8 @@
       yazılımdır. Kursiyer öğrenciler daha önce katıldıkları kursları ve gelecekte düzenlenecek olan
        kursların hangilerine kayıt olduklarını görülebilir. Yeni bir kursa kayıt olabilir
       proje yazılım muhendisliği dersindeki yazılım geliştirme süreci adımları takip ederek yapısal yaklaşımla gerçekleşti
-	
+      Varlık- İlişki Diyagramı (ERD) ve Veri Akış Diyagramı (VAD) için detaylı raporu iceleyin
+     <a href="https://maya-karahbala.github.io/El_sanat_kurslari/rapor.pdf"> Rapor </a>
 
    </p>
 
@@ -23,8 +24,7 @@
 	              <li> jar dosyası çalıştırma</li>
 	<p>El_sanat_kurslari/Elasanatlari_Kurs_Secimi /dist klasördeki jar dosyası çalıştırılmalı</p>
         </ul>
-		<h4><li >Varlık- İlişki Diyagramı (ERD) ve Veri Akış Diyagramı (VAD) için detaylı rapor</li></h4>
-		 <a href="https://maya-karahbala.github.io/El_sanat_kurslari/rapor.pdf"> Rapor </a>
+		
 	
 
 		
